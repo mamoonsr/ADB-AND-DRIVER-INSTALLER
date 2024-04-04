@@ -78,3 +78,9 @@ When you have installed ADB User-wide place the script in %SystemDrive%\Users\{u
 ## How to update drivers?
 Rerun the tool and choose "no" until you were ask "Do you want to install device drivers" Choose "yes" and continue driver installation
 
+
+adb devices
+
+
+
+

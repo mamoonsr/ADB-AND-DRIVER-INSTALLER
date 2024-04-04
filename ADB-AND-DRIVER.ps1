@@ -263,6 +263,5 @@ for ($i = 0; $i -lt $t.length; $i++) {
   write-host $t[$i] -NoNewline -ForegroundColor $c
 }
 
-Write-Host "`nMy work is done here, bye"
-
-Pause
+reboote devices
+gh repo clone microsoft/winget-cligh repo clone microsoft/winget-cli
